@@ -9,7 +9,7 @@ public class HelloWorld {
 		System.out.println("\n The current local time is: " + currentTime);
 		Greeter greeter = new Greeter();
 		System.out.println("==================\n");
-		System.out.println(greeter.sayHello());
+		System.out.println(greeter.sayHell());
 		System.out.println("==================");
 		System.out.println("\n Hello INIT GUYS ");
 		System.out.println("==================");
